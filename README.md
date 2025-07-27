@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm **AvoCahDoe**  
+# Hey there! I'm **AvoCahDoe**  
 
 ### 💻 Full-Stack Developer | AI Enthusiast | Python + JavaScript 
 
