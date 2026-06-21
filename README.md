@@ -1,8 +1,11 @@
 # Hey there! I'm **Avocado** 🥑
 
-### 🧠 Data Scientist | AI Engineer | Computer Vision & Document Intelligence
+### 🧠 Data Scientist | AI Engineer | Computer Vision 
 
-I build **ML pipelines, computer vision systems, and document AI models** — from region proposal and layout analysis to Quantasation and architecture optimisation algorithms. Passionate about making AI internals understandable and deploying models that actually ship.
+I am interested in annotation systems and deeply engaged with Transformer architectures and their optimization techniques. I am particularly fascinated by quantization methods for reducing model storage requirements and improving inference efficiency. dm for collab !
+
+my vision is democratic AI where powerful models are not centralized, but accessible, understandable, and usable by all :D
+
 
 ---
 
@@ -67,4 +70,5 @@ I build **ML pipelines, computer vision systems, and document AI models** — fr
 
 ---
 
-✨ **Thanks for visiting!**
+✨ **Thanks for visiting hehe !**
+
