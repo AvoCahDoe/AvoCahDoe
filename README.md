@@ -31,20 +31,20 @@ I build **ML pipelines, computer vision systems, and document AI models** — fr
 
 ## 🚀 Featured Projects
 
-| Project                        | Link                                                                                         | Description                                               |
-| ------------------------------ | -------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| 🍃 Leaf                        | [Leaf](https://leaf-eta.vercel.app?utm_source=chatgpt.com)                                   | Interactive web app project for maps marker management                               |
-| 🧠 NN Visualiser               | [NN Visualiser](https://nn-visualiser.vercel.app?utm_source=chatgpt.com)                     | Visual, interactive explorer for neural network internals |
-| 📦 Annotate Everything — BBox  | [BBox Annotation Tool](https://annotate-everything-bbox.vercel.app?utm_source=chatgpt.com)   | Bounding-box annotation tool                              |
-| 🧊 Annotate Everything — Cube  | [Cube Annotation Tool](https://annotate-everything-cube.vercel.app?utm_source=chatgpt.com)   | 3D/cuboid annotation tool                                 |
-| 📊 Annotate Everything — Table | [Table Annotation Tool](https://annotate-everything-table.vercel.app?utm_source=chatgpt.com) | Table structure annotation tool                           |
-
+| Project | Description | Deployed Demo |
+|--------|------------|------|
+| 🍃 Leaf | Interactive web app project for maps marker management | [Leaf](https://leaf-eta.vercel.app?utm_source=chatgpt.com) |
+| 🧠 NN Visualiser | Visual, interactive explorer for neural network internals | [NN Visualiser](https://nn-visualiser.vercel.app?utm_source=chatgpt.com) |
+| 📦 Annotate Everything — BBox | Bounding-box annotation tool | [BBox Annotation Tool](https://annotate-everything-bbox.vercel.app?utm_source=chatgpt.com) |
+| 🧊 Annotate Everything — Cube | 3D/cuboid annotation tool | [Cube Annotation Tool](https://annotate-everything-cube.vercel.app?utm_source=chatgpt.com) |
+| 📊 Annotate Everything — Table | Table structure annotation tool | [Table Annotation Tool](https://annotate-everything-table.vercel.app?utm_source=chatgpt.com) |
 ### 🤗 Models on Hugging Face
-| Model | Description |
-|---|---|
-| [region-proposal-pp-doclayout-l-bo](https://huggingface.co/AvoCahDoe/region-proposal-pp-doclayout-l-bo) | Region proposal model for document layout analysis |
-| [layoutlmv3-bo-segments](https://huggingface.co/AvoCahDoe/layoutlmv3-bo-segments) | LayoutLMv3 fine-tuned for document segment classification |
-| [SLANeXt_wired_bo_ft](https://huggingface.co/AvoCahDoe/SLANeXt_wired_bo_ft) | Fine-tuned table structure recognition (wired tables) model |
+| Model | Description | Deployed Demo |
+|---|---|---|
+| [region-proposal-pp-doclayout-l-bo](https://huggingface.co/AvoCahDoe/region-proposal-pp-doclayout-l-bo) | Region proposal model for document layout analysis | [Demo (click me) ](https://avocahdoe-morocco-bo-region-proposal-demo.hf.space) |
+| [layoutlmv3-bo-segments](https://huggingface.co/AvoCahDoe/layoutlmv3-bo-segments) | LayoutLMv3 fine-tuned for document segment classification | — |
+| [SLANeXt_wired_bo_ft](https://huggingface.co/AvoCahDoe/SLANeXt_wired_bo_ft) | Fine-tuned table structure recognition (wired tables) model | — |
+| [finetuned latin-PPOcrV5](https://huggingface.co/AvoCahDoe/morocco-bo-ocr-latin-v3-finetuned) | Fine-Tuned OCR on French Moroccan Official Journal | [Demo (click me) ](https://avocahdoe-morocco-bo-region-proposal-demo.hf.space) |
 
 📚 **[Browse all my collections →](https://huggingface.co/AvoCahDoe/collections)** — including my work on **RL-MPQ LLMs** (Reinforcement-Learning-based Mixed-Precision Quantization)
 <img width="1258" height="900" alt="image" src="https://github.com/user-attachments/assets/b1d0bfef-f8e0-450d-bac1-bd76f4909597" />
