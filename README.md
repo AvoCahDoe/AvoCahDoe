@@ -42,9 +42,11 @@ I build **ML pipelines, computer vision systems, and document AI models** — fr
 | Model | Description | Deployed Demo |
 |---|---|---|
 | [region-proposal-pp-doclayout-l-bo](https://huggingface.co/AvoCahDoe/region-proposal-pp-doclayout-l-bo) | Region proposal model for document layout analysis | [Demo (click me) ](https://avocahdoe-morocco-bo-region-proposal-demo.hf.space) |
-| [layoutlmv3-bo-segments](https://huggingface.co/AvoCahDoe/layoutlmv3-bo-segments) | LayoutLMv3 fine-tuned for document segment classification | — |
+| [layoutlmv3-bo-segments](https://huggingface.co/AvoCahDoe/layoutlmv3-bo-segments) | LayoutLMv3 fine-tuned for document segment classification | [Demo (click me) ](https://avocahdoe-morocco-bo-region-classification-demo.hf.space)
+|
 | [SLANeXt_wired_bo_ft](https://huggingface.co/AvoCahDoe/SLANeXt_wired_bo_ft) | Fine-tuned table structure recognition (wired tables) model | — |
 | [finetuned latin-PPOcrV5](https://huggingface.co/AvoCahDoe/morocco-bo-ocr-latin-v3-finetuned) | Fine-Tuned OCR on French Moroccan Official Journal | [Demo (click me) ](https://avocahdoe-morocco-bo-region-proposal-demo.hf.space) |
+
 
 📚 **[Browse all my collections →](https://huggingface.co/AvoCahDoe/collections)** — including my work on **RL-MPQ LLMs** (Reinforcement-Learning-based Mixed-Precision Quantization)
 <img width="1258" height="900" alt="image" src="https://github.com/user-attachments/assets/b1d0bfef-f8e0-450d-bac1-bd76f4909597" />
