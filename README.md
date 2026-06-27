@@ -70,26 +70,26 @@ my vision is democratic AI where powerful models are not centralized, but access
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-
 ## 🚀 Featured Projects
 
 | Project | Description | Deployed Demo |
 |--------|------------|------|
-| 🍃 Leaf | Interactive web app project for maps marker management | [Leaf](https://leaf-eta.vercel.app?utm_source=chatgpt.com) |
-| 🧠 NN Visualiser | Visual, interactive explorer for neural network internals | [NN Visualiser](https://nn-visualiser.vercel.app?utm_source=chatgpt.com) |
-| 📦 Annotate Everything — BBox | Bounding-box annotation tool | [BBox Annotation Tool](https://annotate-everything-bbox.vercel.app?utm_source=chatgpt.com) |
-| 🧊 Annotate Everything — Cube | 3D/cuboid annotation tool | [Cube Annotation Tool](https://annotate-everything-cube.vercel.app?utm_source=chatgpt.com) |
-| 📊 Annotate Everything — Table | Table structure annotation tool | [Table Annotation Tool](https://annotate-everything-table.vercel.app?utm_source=chatgpt.com) |
+| 🍃 Leaf | Interactive web app project for maps marker management | [Leaf](https://leaf-eta.vercel.app) |
+| 🧠 NN Visualiser | Visual, interactive explorer for neural network internals | [NN Visualiser](https://nn-visualiser.vercel.app) |
+| 📦 Annotate Everything — BBox | Bounding-box annotation tool | [BBox Annotation Tool](https://annotate-everything-bbox.vercel.app) |
+| 🧊 Annotate Everything — Cube | 3D/cuboid annotation tool | [Cube Annotation Tool](https://annotate-everything-cube.vercel.app) |
+| 📊 Annotate Everything — Table | Table structure annotation tool | [Table Annotation Tool](https://annotate-everything-table.vercel.app) |
+| 📚 Read & Track | Reading tracker and personal library management web application | [Read & Track](https://read-and-track.vercel.app) |
+
 ### 🤗 Models on Hugging Face
 
-| Model                                                                                                   | Description                                                  | Deployed Demo                                                               |
+| Model | Description | Deployed Demo |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------- |
-| [region-proposal-pp-doclayout-l-bo](https://huggingface.co/AvoCahDoe/region-proposal-pp-doclayout-l-bo) | Region proposal model for document layout analysis           | [🚀 Demo](https://avocahdoe-morocco-bo-region-proposal-demo.hf.space)       |
-| [layoutlmv3-bo-segments](https://huggingface.co/AvoCahDoe/layoutlmv3-bo-segments)                       | LayoutLMv3 fine-tuned for document segment classification    | [🚀 Demo](https://avocahdoe-morocco-bo-region-classification-demo.hf.space) |
-| [SLANeXt_wired_bo_ft](https://huggingface.co/AvoCahDoe/SLANeXt_wired_bo_ft)                             | Fine-tuned table structure recognition (wired tables) model  | —                                                                           |
-| [morocco-bo-ocr-latin-v3-finetuned](https://huggingface.co/AvoCahDoe/morocco-bo-ocr-latin-v3-finetuned) | Fine-tuned OCR model on the French Moroccan Official Journal | [🚀 Demo](https://avocahdoe-morocco-bo-latin-ocr-demo.hf.space)             |
-
-
+| [region-proposal-pp-doclayout-l-bo](https://huggingface.co/AvoCahDoe/region-proposal-pp-doclayout-l-bo) | Region proposal model for document layout analysis | [🚀 Demo](https://avocahdoe-morocco-bo-region-proposal-demo.hf.space) |
+| [layoutlmv3-bo-segments](https://huggingface.co/AvoCahDoe/layoutlmv3-bo-segments) | LayoutLMv3 fine-tuned for document segment classification | [🚀 Demo](https://avocahdoe-morocco-bo-region-classification-demo.hf.space) |
+| [SLANeXt_wired_bo_ft](https://huggingface.co/AvoCahDoe/SLANeXt_wired_bo_ft) | Fine-tuned table structure recognition (wired tables) model | — |
+| [morocco-bo-ocr-latin-v3-finetuned](https://huggingface.co/AvoCahDoe/morocco-bo-ocr-latin-v3-finetuned) | Fine-tuned OCR model on the French Moroccan Official Journal | [🚀 Demo](https://avocahdoe-morocco-bo-latin-ocr-demo.hf.space) |
+| [Invoice Layout Detection (YOLOv8n)](https://huggingface.co/collections/AvoCahDoe/invoice-layout-extraction) | YOLOv8n model for invoice document layout detection | [🚀 Demo](https://avocahdoe-invoice-layout-yolov8n-demo.hf.space) |
 
 📚 **[Browse all my collections →](https://huggingface.co/AvoCahDoe/collections)** — including my work on **RL-MPQ LLMs** (Reinforcement-Learning-based Mixed-Precision Quantization)
 
